@@ -1,0 +1,13 @@
+c:\Users\jamieho\OneDrive - Microsoft\Visual Studio 2017\Projects\NetTools\Helper\bin\Debug\Helper.dll
+c:\Users\jamieho\OneDrive - Microsoft\Visual Studio 2017\Projects\NetTools\Helper\bin\Debug\Helper.pdb
+c:\Users\jamieho\OneDrive - Microsoft\Visual Studio 2017\Projects\NetTools\Helper\obj\Debug\Helpers.csprojAssemblyReference.cache
+c:\Users\jamieho\OneDrive - Microsoft\Visual Studio 2017\Projects\NetTools\Helper\obj\Debug\Helpers.csproj.CoreCompileInputs.cache
+c:\Users\jamieho\OneDrive - Microsoft\Visual Studio 2017\Projects\NetTools\Helper\obj\Debug\Helper.dll
+c:\Users\jamieho\OneDrive - Microsoft\Visual Studio 2017\Projects\NetTools\Helper\obj\Debug\Helper.pdb
+C:\Users\jamieho\OneDrive - Microsoft\Visual Studio 2017\Projects\NetTools\Helper\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Users\jamieho\OneDrive - Microsoft\Visual Studio 2017\Projects\NetTools\Helper\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.dll
+C:\Users\jamieho\OneDrive - Microsoft\Visual Studio 2017\Projects\NetTools\Helper\bin\Debug\SimpleLogger.dll
+C:\Users\jamieho\OneDrive - Microsoft\Visual Studio 2017\Projects\NetTools\Helper\bin\Debug\SimpleLogger.pdb
+C:\Users\jamieho\OneDrive - Microsoft\Visual Studio 2017\Projects\NetTools\Helper\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+C:\Users\jamieho\OneDrive - Microsoft\Visual Studio 2017\Projects\NetTools\Helper\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.xml
+C:\Users\jamieho\OneDrive - Microsoft\Visual Studio 2017\Projects\NetTools\Helper\obj\Debug\Helpers.csproj.CopyComplete

@@ -1,0 +1,22 @@
+c:\Users\jamieho\OneDrive - Microsoft\Visual Studio 2017\Projects\NetTools\LoadFile\bin\Debug\LoadFile.dll
+c:\Users\jamieho\OneDrive - Microsoft\Visual Studio 2017\Projects\NetTools\LoadFile\bin\Debug\LoadFile.pdb
+c:\Users\jamieho\OneDrive - Microsoft\Visual Studio 2017\Projects\NetTools\LoadFile\bin\Debug\Helper.dll
+c:\Users\jamieho\OneDrive - Microsoft\Visual Studio 2017\Projects\NetTools\LoadFile\bin\Debug\SimpleLogger.dll
+c:\Users\jamieho\OneDrive - Microsoft\Visual Studio 2017\Projects\NetTools\LoadFile\bin\Debug\Helper.pdb
+c:\Users\jamieho\OneDrive - Microsoft\Visual Studio 2017\Projects\NetTools\LoadFile\bin\Debug\SimpleLogger.pdb
+c:\Users\jamieho\OneDrive - Microsoft\Visual Studio 2017\Projects\NetTools\LoadFile\obj\Debug\FileLoader.csprojAssemblyReference.cache
+c:\Users\jamieho\OneDrive - Microsoft\Visual Studio 2017\Projects\NetTools\LoadFile\obj\Debug\FileLoader.csproj.CoreCompileInputs.cache
+c:\Users\jamieho\OneDrive - Microsoft\Visual Studio 2017\Projects\NetTools\LoadFile\obj\Debug\FileLoader.csproj.CopyComplete
+c:\Users\jamieho\OneDrive - Microsoft\Visual Studio 2017\Projects\NetTools\LoadFile\obj\Debug\LoadFile.dll
+c:\Users\jamieho\OneDrive - Microsoft\Visual Studio 2017\Projects\NetTools\LoadFile\obj\Debug\LoadFile.pdb
+C:\src\Upload\LoadFile\bin\Debug\LoadFile.dll
+C:\src\Upload\LoadFile\bin\Debug\LoadFile.pdb
+C:\src\Upload\LoadFile\bin\Debug\Helper.dll
+C:\src\Upload\LoadFile\bin\Debug\SimpleLogger.dll
+C:\src\Upload\LoadFile\bin\Debug\Helper.pdb
+C:\src\Upload\LoadFile\bin\Debug\SimpleLogger.pdb
+C:\src\Upload\LoadFile\obj\Debug\FileLoader.csprojAssemblyReference.cache
+C:\src\Upload\LoadFile\obj\Debug\FileLoader.csproj.CoreCompileInputs.cache
+C:\src\Upload\LoadFile\obj\Debug\FileLoader.csproj.CopyComplete
+C:\src\Upload\LoadFile\obj\Debug\LoadFile.dll
+C:\src\Upload\LoadFile\obj\Debug\LoadFile.pdb
