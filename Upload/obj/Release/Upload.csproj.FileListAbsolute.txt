@@ -1,0 +1,15 @@
+C:\src\Upload\Upload\bin\Release\Upload.exe.config
+C:\src\Upload\Upload\bin\Release\Upload.exe
+C:\src\Upload\Upload\bin\Release\Upload.pdb
+C:\src\Upload\Upload\bin\Release\Helper.dll
+C:\src\Upload\Upload\bin\Release\LoadFile.dll
+C:\src\Upload\Upload\bin\Release\SimpleLogger.dll
+C:\src\Upload\Upload\bin\Release\Helper.pdb
+C:\src\Upload\Upload\bin\Release\LoadFile.pdb
+C:\src\Upload\Upload\bin\Release\SimpleLogger.pdb
+C:\src\Upload\Upload\obj\Release\Upload.csprojAssemblyReference.cache
+C:\src\Upload\Upload\obj\Release\Upload.csproj.CopyComplete
+C:\src\Upload\Upload\obj\Release\Upload.exe
+C:\src\Upload\Upload\obj\Release\Upload.pdb
+C:\src\Upload\Upload\bin\Release\Helper.dll.config
+C:\src\Upload\Upload\bin\Release\LoadFile.dll.config

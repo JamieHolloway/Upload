@@ -1,0 +1,12 @@
+C:\src\Upload\LoadFile\bin\Release\LoadFile.dll
+C:\src\Upload\LoadFile\bin\Release\LoadFile.pdb
+C:\src\Upload\LoadFile\bin\Release\Helper.dll
+C:\src\Upload\LoadFile\bin\Release\SimpleLogger.dll
+C:\src\Upload\LoadFile\bin\Release\Helper.pdb
+C:\src\Upload\LoadFile\bin\Release\SimpleLogger.pdb
+C:\src\Upload\LoadFile\obj\Release\FileLoader.csprojAssemblyReference.cache
+C:\src\Upload\LoadFile\obj\Release\FileLoader.csproj.CopyComplete
+C:\src\Upload\LoadFile\obj\Release\LoadFile.dll
+C:\src\Upload\LoadFile\obj\Release\LoadFile.pdb
+C:\src\Upload\LoadFile\bin\Release\LoadFile.dll.config
+C:\src\Upload\LoadFile\bin\Release\Helper.dll.config

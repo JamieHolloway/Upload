@@ -14,12 +14,13 @@ c:\Users\jamieho\OneDrive - Microsoft\Visual Studio 2017\Projects\NetTools\Helpe
 C:\src\Upload\Helper\bin\x64\Debug\Helper.dll
 C:\src\Upload\Helper\bin\x64\Debug\Helper.pdb
 C:\src\Upload\Helper\bin\x64\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
-C:\src\Upload\Helper\bin\x64\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.dll
 C:\src\Upload\Helper\bin\x64\Debug\SimpleLogger.dll
 C:\src\Upload\Helper\bin\x64\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
-C:\src\Upload\Helper\bin\x64\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.xml
 C:\src\Upload\Helper\bin\x64\Debug\SimpleLogger.pdb
-C:\src\Upload\Helper\obj\x64\Debug\Helpers.csproj.CoreCompileInputs.cache
 C:\src\Upload\Helper\obj\x64\Debug\Helpers.csproj.CopyComplete
 C:\src\Upload\Helper\obj\x64\Debug\Helper.dll
 C:\src\Upload\Helper\obj\x64\Debug\Helper.pdb
+C:\src\Upload\Helper\bin\x64\Debug\Helper.dll.config
+C:\src\Upload\Helper\bin\x64\Debug\System.Net.Http.dll
+C:\src\Upload\Helper\bin\x64\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.pdb
+C:\src\Upload\Helper\obj\x64\Debug\Helpers.csprojAssemblyReference.cache

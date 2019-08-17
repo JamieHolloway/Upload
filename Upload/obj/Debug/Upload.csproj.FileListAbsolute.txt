@@ -1,5 +1,4 @@
 C:\src\Upload\Upload\obj\Debug\Upload.csprojAssemblyReference.cache
-C:\src\Upload\Upload\obj\Debug\Upload.csproj.CoreCompileInputs.cache
 C:\src\Upload\Upload\bin\Debug\Upload.exe.config
 C:\src\Upload\Upload\bin\Debug\Upload.exe
 C:\src\Upload\Upload\bin\Debug\Upload.pdb
@@ -12,3 +11,5 @@ C:\src\Upload\Upload\bin\Debug\SimpleLogger.pdb
 C:\src\Upload\Upload\obj\Debug\Upload.csproj.CopyComplete
 C:\src\Upload\Upload\obj\Debug\Upload.exe
 C:\src\Upload\Upload\obj\Debug\Upload.pdb
+C:\src\Upload\Upload\bin\Debug\Helper.dll.config
+C:\src\Upload\Upload\bin\Debug\LoadFile.dll.config

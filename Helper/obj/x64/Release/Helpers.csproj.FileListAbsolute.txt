@@ -1,0 +1,13 @@
+C:\src\Upload\Helper\bin\x64\Release\Helper.dll
+C:\src\Upload\Helper\bin\x64\Release\Helper.pdb
+C:\src\Upload\Helper\bin\x64\Release\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\src\Upload\Helper\bin\x64\Release\SimpleLogger.dll
+C:\src\Upload\Helper\bin\x64\Release\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+C:\src\Upload\Helper\bin\x64\Release\SimpleLogger.pdb
+C:\src\Upload\Helper\obj\x64\Release\Helpers.csproj.CopyComplete
+C:\src\Upload\Helper\obj\x64\Release\Helper.dll
+C:\src\Upload\Helper\obj\x64\Release\Helper.pdb
+C:\src\Upload\Helper\bin\x64\Release\Helper.dll.config
+C:\src\Upload\Helper\bin\x64\Release\System.Net.Http.dll
+C:\src\Upload\Helper\bin\x64\Release\Microsoft.IdentityModel.Clients.ActiveDirectory.pdb
+C:\src\Upload\Helper\obj\x64\Release\Helpers.csprojAssemblyReference.cache

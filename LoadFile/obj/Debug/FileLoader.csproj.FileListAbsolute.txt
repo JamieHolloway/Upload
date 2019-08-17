@@ -16,7 +16,8 @@ C:\src\Upload\LoadFile\bin\Debug\SimpleLogger.dll
 C:\src\Upload\LoadFile\bin\Debug\Helper.pdb
 C:\src\Upload\LoadFile\bin\Debug\SimpleLogger.pdb
 C:\src\Upload\LoadFile\obj\Debug\FileLoader.csprojAssemblyReference.cache
-C:\src\Upload\LoadFile\obj\Debug\FileLoader.csproj.CoreCompileInputs.cache
 C:\src\Upload\LoadFile\obj\Debug\FileLoader.csproj.CopyComplete
 C:\src\Upload\LoadFile\obj\Debug\LoadFile.dll
 C:\src\Upload\LoadFile\obj\Debug\LoadFile.pdb
+C:\src\Upload\LoadFile\bin\Debug\LoadFile.dll.config
+C:\src\Upload\LoadFile\bin\Debug\Helper.dll.config
