@@ -49,7 +49,7 @@ namespace FileLoader
             }
 
             const string namePrefix = "temp_from_JamieHo_FileLoader_";
-            const string nameSuffix = "_JamieHo_Auto_Upload";
+            const string nameSuffix = ""; // "_JamieHo_Auto_Upload";
             Sql.ExecuteSqlCommand(log, sqlConnectionString, $@"begin try drop table {namePrefix + tableName} end try begin catch end catch;");
             Sql.ExecuteSqlCommand(log, sqlConnectionString, CreateTable.GetDDL(namePrefix + tableName, dt));
             var bulkCopy = new BulkCopy(sqlConnectionString, namePrefix + tableName, dt);

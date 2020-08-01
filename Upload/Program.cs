@@ -35,7 +35,7 @@ namespace Upload
             try
             {
                 const string sqlConnectionString = @"Data Source=localhost;Initial Catalog=Network;Integrated Security=True";
-                var fileEntries = Directory.GetFiles(@"c:\uploads\");
+                var fileEntries = Directory.GetFiles(@"C:\Users\jamieho\OneDrive - Microsoft\Uploads");
                 foreach (var fileName in fileEntries)
                 {
                     var fl = new FileLoader.FileLoader(log, sqlConnectionString: sqlConnectionString, fileName: fileName);
